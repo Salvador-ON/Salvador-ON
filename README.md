@@ -1,4 +1,4 @@
-<h1> Salvador Olvera </h1>
+<div align="center"><img src="https://github.com/Salvador-ON/Salvador-ON/blob/master/Salvador-ON.gif" alt="About Me"></div>
 
 <p>Hi I'm a Full-Stack Remote Software Developer with a passion for coding :computer: and creating responsive web applications with intuitive UX/UI :art:. I have experience working front-end interfaces and back-end databases with remote teams, and advanced proficiencies in HTML, CSS, SASS, JavaScript, Ruby, Ruby on Rails, and React/Redux</p>
 
@@ -23,4 +23,3 @@
 - :bird: Twitter: [@Salvador_ON](https://twitter.com/Salvador_ON)
 - :briefcase: Linkedin: [Salvador Olvera](https://www.linkedin.com/in/salvador-olvera-n)
 
-<div align="center"><img src="https://github.com/Salvador-ON/Salvador-ON/blob/master/SalvadorON.gif" alt="About Me"></div>
