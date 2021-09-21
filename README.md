@@ -1,6 +1,6 @@
-<div align="center"><img src="https://github.com/Salvador-ON/Salvador-ON/blob/master/Salvador-Olvera-V2.gif" alt="About Me"></div>
+<div align="center"><img src="https://github.com/Salvador-ON/Salvador-ON/blob/master/Ruby%20on%20Rails%20React%20%20Redux%20(1).png" alt="About Me"></div>
 
-<p>Hi I'm a Full-Stack Remote Software Developer with a passion for coding :computer: and creating responsive web applications with intuitive UX/UI :art:. I have experience working front-end interfaces and back-end databases with remote teams, and advanced proficiencies in HTML, CSS, SASS, JavaScript, Ruby, Ruby on Rails, and React/Redux</p>
+<p>Hi I'm a Full-Stack Remote Software Developer with a passion for coding :computer: and creating responsive web applications with intuitive UX/UI :art:. I have experience working front-end interfaces and back-end databases with remote teams, and advanced proficiencies in HTML, CSS, SASS, JavaScript, TypeScript, NodeJs, Ruby on Rails, and React</p>
 
 <p>Additionally, I have over 5 years of experience in the tech field where I managed daily operations of a start-up company, became COO, and through proper management of resources and services, improved production efficiency by 15% :chart_with_upwards_trend:. I developed the inventory and manufacturing execution system, which registered and tracked processes and outcomes of the manufacturing process :factory:.
 </p>
