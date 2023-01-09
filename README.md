@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/Salvador-ON/Salvador-ON/blob/master/Ruby%20on%20Rails%20React%20%20Redux%20(1).png" alt="About Me"></div>
+<div align="center"><img src="https://github.com/Salvador-ON/Salvador-ON/blob/master/Ruby%20on%20Rails%20React%20%20Redux.png" alt="About Me"></div>
 
 <p>Hi I'm a Full-Stack Remote Software Developer with a passion for coding :computer: and creating responsive web applications with intuitive UX/UI :art:. I have experience working front-end interfaces and back-end databases with remote teams, and advanced proficiencies in HTML, CSS, SASS, JavaScript, TypeScript, NodeJs, Ruby on Rails, and React</p>
 
